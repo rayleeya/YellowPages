@@ -1,0 +1,21 @@
+
+<resources>
+
+    <string name="app_name">清河黄页</string>
+
+    <string name="action_search">搜索</string>
+    <string name="action_about">关于我们</string>
+    <string name="action_upgrade">检查升级</string>
+    
+    <!-- Here we can update these categories from server -->
+    <string-array name="tab_categories">
+        <item name="tab_zixun">资讯</item>
+	    <item name="tab_youhui">优惠</item>
+	    <item name="tab_zhaopin">招聘</item>
+	    <item name="tab_xinpin">新品</item>
+	    <item name="tab_tongcheng">同城</item>
+	    <item name="tab_youmo">幽默</item>
+    </string-array>
+    
+</resources>
+

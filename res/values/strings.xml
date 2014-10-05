@@ -1,0 +1,19 @@
+
+<resources>
+
+    <string name="app_name">QingHeYellowPages</string>
+
+    <string name="action_search">Search</string>
+    <string name="action_about">About Us</string>
+    <string name="action_upgrade">Check New Version</string>
+    
+    <!-- Here we can update these categories from server -->
+    <string-array name="tab_categories">
+        <item name="tab_zixun">News</item>
+	    <item name="tab_youhui">Coupon</item>
+	    <item name="tab_zhaopin">Jobs</item>
+	    <item name="tab_xinpin">New Products</item>
+	    <item name="tab_tongcheng">Same City</item>
+	    <item name="tab_youmo">Homour</item>
+    </string-array>
+</resources>
